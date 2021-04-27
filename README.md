@@ -9,7 +9,7 @@ It is an interactive website of any aged-user.
 # PAGES IN THE WEBSITE
 
 1. HOME
-  - This is the proper introduct of the website includes all the sections fro the website
+  - This is the proper introduction of the website includes all the sections from the website
   
 2. TRIPS
    - I add all the scheduled trips here
@@ -24,7 +24,7 @@ It is an interactive website of any aged-user.
     - Customer can book their trips
     
 6. CONTACT
-    - Customer cn contact us regarding any queries
+    - Customer can contact us regarding any queries
     
 7. LOGIN
 
