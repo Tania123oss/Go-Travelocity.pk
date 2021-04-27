@@ -43,6 +43,9 @@ It is an interactive website of any aged-user.
 - Css
 - Javascript
 
+# HOSTING OF THE PROJECT
+I host this project on ` netlify `
+
 # LINK OF THE PROJECT
 
 ./https://compassionate-lamport-2ca73c.netlify.app/
