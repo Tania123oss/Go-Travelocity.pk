@@ -3,7 +3,8 @@
 # DESCRIPTION
 
 I have made a travel website which contain every idea a travel-lover want to see in any website. This include everything from details to booking and transactions to each and everything.
-It is an interactive website of any aged-user. 
+
+It is an interactive website of any aged-user 
 
 
 # PAGES IN THE WEBSITE
